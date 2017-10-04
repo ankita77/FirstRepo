@@ -1,0 +1,1 @@
+create table Trainee(traineeId number(10) primary key,TRAINEE_NAME varchar2(15),TRAINEE_DOMAIN varchar2(15),LOCATION varchar2(15));
